@@ -7,9 +7,7 @@
 .idea/
 .vscode
 
-### Also any macOS specific files
 .DS_Store
-.AppleDouble
 .LSOverride
 Icon
 # and thumbnails
@@ -140,7 +138,6 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
 env/
 venv/
 ENV/
